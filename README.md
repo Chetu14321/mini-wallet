@@ -71,7 +71,7 @@ Response:
 
  ### Running the Project Locally
   - 1. Clone the Repository
-    git clone <your-github-repository-url>
+    git clone <(https://github.com/Chetu14321/mini-wallet.git)>
     cd mini-wallet
 
   - 2. Install Dependencies
@@ -112,5 +112,8 @@ PORT=3000
 
 ### Run Tests
 - npm test
+
+### project live url
+-  https://mini-wallet-7voh.onrender.com
 
 
