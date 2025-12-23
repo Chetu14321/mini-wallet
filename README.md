@@ -85,7 +85,7 @@ MONGO_URI=mongodb://127.0.0.1:27017/mini_wallet
 PORT=3000
 
 ### 4. Start the Server
-    npm start
+    npm start /npm run dev
 
 
 ### The server will run at:
@@ -116,4 +116,5 @@ PORT=3000
 ### project live url
 -  https://mini-wallet-7voh.onrender.com
 
-
+### Author
+(Chethan M P)
